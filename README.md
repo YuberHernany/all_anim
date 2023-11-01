@@ -1,0 +1,1 @@
+Here you can find files with code using manim library for mathematical animation.
